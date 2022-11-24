@@ -1,0 +1,122 @@
+.container {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  margin-top: 220px;
+  margin-bottom: 220px;
+  padding-top: 10%;
+}
+
+.heading {
+  font-family: Inconsolata, monospace;
+  color: #000;
+  text-align: center;
+  letter-spacing: -1px;
+  text-transform: lowercase;
+}
+
+.column {
+  border-right: 1px solid #000;
+}
+
+.paragraph {
+  padding-left: 33px;
+  text-align: justify;
+}
+
+.button {
+  position: relative;
+  left: 54%;
+  top: 0%;
+  right: auto;
+  bottom: 0%;
+  border: 1px solid #000;
+  border-radius: 8px;
+  background-color: transparent;
+  color: #0c0c0c;
+}
+
+.div-block {
+  margin-top: 44px;
+}
+
+.link {
+  position: absolute;
+  left: auto;
+  top: auto;
+  right: 13%;
+  bottom: 41%;
+  margin-left: -200px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  float: left;
+  color: #000;
+}
+
+.link-2 {
+  position: absolute;
+  left: auto;
+  top: auto;
+  right: 0%;
+  bottom: 0%;
+  color: #000;
+}
+
+.link-3 {
+  position: absolute;
+  left: auto;
+  top: auto;
+  right: 5%;
+  bottom: 0%;
+  color: #000;
+}
+
+.div-block-2 {
+  position: absolute;
+  left: 0%;
+  top: 29%;
+  right: 0%;
+  bottom: auto;
+  margin-top: -29px;
+  text-align: center;
+}
+
+.heading-2 {
+  color: #000;
+}
+
+.container-2 {
+  padding-right: 0px;
+}
+
+.link-4 {
+  padding-right: 27px;
+  color: #000;
+}
+
+.link-5 {
+  color: #000;
+}
+
+.link-6 {
+  margin-left: 32px;
+  padding-left: 0px;
+  color: #000;
+}
+
+.grid {
+  margin-top: 140px;
+  margin-right: 140px;
+  margin-left: 140px;
+  grid-template-areas: "Area";
+}
+
+.image {
+  position: relative;
+  left: 0%;
+  top: auto;
+  right: auto;
+  bottom: 0%;
+}
